@@ -1,6 +1,6 @@
 # Secure IoT Safe Control System
 
-This project implements a secure IoT-based safe control system using the ESP32-C3 microcontroller.
+This project implements a secure IoT-based safe control system using the ESP32-C3 microcontroller. Something i noticed that has a major gap in todays IoT world!
 
 ## Features
 - Multi-layer authentication:
